@@ -1,6 +1,3 @@
-# Creiamo il file README.md con il contenuto richiesto
-
-
 # MusEl-ConsAq – Open Source & Free Software  
 > Il ramo open-source e software libero del corso di Musica Elettronica del Conservatorio "A. Casella" de L'Aquila.  
 
